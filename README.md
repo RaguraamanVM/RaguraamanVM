@@ -69,5 +69,5 @@
 ---
 
 ## Connect with Me
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@gmail.com
+- LinkedIn: www.linkedin.com/in/raguraaman-v-m
+- Email: vm.raguraaman@gmail.com
