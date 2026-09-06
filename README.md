@@ -17,9 +17,11 @@
 ### Containers
 - Docker
 - Kubernetes
+- Helm
 
 ### CI/CD
 - Jenkins
+- ArgoCD
 - AWS CodePipeline
 - AWS CodeBuild
 
@@ -36,12 +38,15 @@
 ### Version Control
 - Git
 - GitHub
+- GitLab
 
 ### Operating System
 - Linux
 
 ### Scripting
 - Bash
+
+### Programming 
 - Python
 
 ---
@@ -71,3 +76,4 @@
 ## Connect with Me
 - LinkedIn: www.linkedin.com/in/raguraaman-v-m
 - Email: vm.raguraaman@gmail.com
+- Portfolio: https://raguraamanvm.github.io/raguraaman-portfolio-website/
