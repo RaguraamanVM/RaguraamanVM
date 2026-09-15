@@ -74,6 +74,6 @@
 ---
 
 ## Connect with Me
-- LinkedIn: www.linkedin.com/in/raguraaman-v-m
+- LinkedIn: www.linkedin.com/in/raguraaman/
 - Email: vm.raguraaman@gmail.com
 - Portfolio: https://raguraamanvm.github.io/raguraaman-portfolio-website/
